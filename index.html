@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Поисковый трафик profilactica.clinic — Google Search Console</title>
+  <meta name="description" content="Срез органической видимости profilactica.clinic в Google Search Console за 12.07–11.10.2026.">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/vendor/fontawesome/css/fontawesome.min.css">
+  <link rel="stylesheet" href="assets/vendor/fontawesome/css/solid.min.css">
+  <link rel="stylesheet" href="assets/css/report.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">Перейти к содержанию</a>
+
+  <header class="mobile-header">
+    <button type="button" class="icon-button" id="navOpen" aria-controls="sidebar" aria-expanded="false">
+      <i class="fa-solid fa-bars" aria-hidden="true"></i>
+      <span>Разделы</span>
+    </button>
+    <span class="mobile-title">profilactica.clinic</span>
+  </header>
+
+  <button type="button" class="drawer-backdrop" id="navBackdrop" hidden aria-label="Закрыть меню"></button>
+
+  <div class="page-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Навигация по отчёту">
+      <div class="sidebar__brand">
+        <img src="assets/favicon-32.png" width="22" height="22" alt="">
+        <span>profilactica.clinic</span>
+      </div>
+      <nav class="sidebar__nav" id="sidebarNav">
+        <a href="#overview" data-section="overview"><span class="nav-num">1</span><i class="fa-solid fa-bullseye" aria-hidden="true"></i><span>Масштаб</span></a>
+        <a href="#balance" data-section="balance"><span class="nav-num">2</span><i class="fa-solid fa-chart-pie" aria-hidden="true"></i><span>Дисбаланс</span></a>
+        <a href="#visibility" data-section="visibility"><span class="nav-num">3</span><i class="fa-solid fa-eye-slash" aria-hidden="true"></i><span>Видимость</span></a>
+        <a href="#geo" data-section="geo"><span class="nav-num">4</span><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span>GEO</span></a>
+        <a href="#articles" data-section="articles"><span class="nav-num">5</span><i class="fa-solid fa-newspaper" aria-hidden="true"></i><span>Статьи</span></a>
+        <a href="#dynamics" data-section="dynamics"><span class="nav-num">6</span><i class="fa-solid fa-chart-line" aria-hidden="true"></i><span>Динамика</span></a>
+      </nav>
+    </aside>
+
+    <main class="wrap" id="content">
+      <header class="hero" id="overview">
+        <h1>Поисковый трафик profilactica.clinic</h1>
+        <p class="lead-fact">Из 884 страниц услуг 785 не получили ни одного клика за три месяца.</p>
+      </header>
+
+      <section class="section" id="balance">
+        <h2><i class="fa-solid fa-chart-pie section-icon" aria-hidden="true"></i> Дисбаланс: страниц много, трафика почти нет</h2>
+        <p class="section__caption">Услуги занимают 88,4% URL, но дают лишь 11,8% кликов.</p>
+
+        <div class="panel">
+          <p class="panel__title">Доли URL и кликов</p>
+          <p class="panel__meta">Категории: страницы услуг и остальные страницы.</p>
+          <div class="chart-wrap">
+            <canvas id="chartBalance" aria-label="Сравнение долей URL и кликов"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="visibility">
+        <h2><i class="fa-solid fa-eye-slash section-icon" aria-hidden="true"></i> Сколько коммерческих URL вообще видимы</h2>
+        <p class="section__caption">Большинство коммерческих URL практически не приносит переходов.</p>
+
+        <div class="panel">
+          <p class="panel__title">Клики по 884 страницам услуг</p>
+          <p class="panel__meta">785 без кликов · 99 хотя бы с одним кликом</p>
+          <div class="chart-wrap chart-wrap--sm">
+            <canvas id="chartZeroClicks" aria-label="Страницы услуг с нулём кликов и с кликами"></canvas>
+          </div>
+        </div>
+
+        <div class="panel">
+          <p class="panel__title">Показы: 613 из 884 URL имеют меньше 10 показов</p>
+          <div class="chart-wrap chart-wrap--sm">
+            <canvas id="chartLowImpr" aria-label="URL услуг с менее чем 10 показами"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="geo">
+        <h2><i class="fa-solid fa-location-dot section-icon" aria-hidden="true"></i> GEO — 774 страницы, 144 клика</h2>
+        <p class="section__caption">Три GEO-группы внутри раздела услуг за 92 дня.</p>
+
+        <div class="geo-total">
+          <div class="geo-stat">
+            <span class="geo-stat__value">774 / 144</span>
+            <span class="geo-stat__label">страниц GEO / кликов за 92 дня</span>
+          </div>
+          <div class="geo-stat">
+            <span class="geo-stat__value">702 из 774</span>
+            <span class="geo-stat__label">GEO URL без кликов</span>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="panel">
+            <p class="panel__title">Число URL</p>
+            <div class="chart-wrap chart-wrap--geo">
+              <canvas id="chartGeoPages" aria-label="Число GEO URL по группам"></canvas>
+            </div>
+          </div>
+          <div class="panel">
+            <p class="panel__title">Число кликов</p>
+            <div class="chart-wrap chart-wrap--geo">
+              <canvas id="chartGeoClicks" aria-label="Клики GEO по группам"></canvas>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="articles">
+        <h2><i class="fa-solid fa-newspaper section-icon" aria-hidden="true"></i> Что действительно даёт трафик</h2>
+        <p class="section__caption">Эти пять материалов получили больше кликов, чем все 884 страницы услуг вместе.</p>
+
+        <div class="panel">
+          <p class="panel__title">ТОП-5 информационных статей · сумма 1&nbsp;024 клика</p>
+          <p class="panel__meta">URL открывается по наведению и по клику на подпись.</p>
+          <div class="chart-wrap chart-wrap--articles">
+            <canvas id="chartArticles" aria-label="ТОП-5 статей по кликам"></canvas>
+          </div>
+        </div>
+        <p class="section__note">При обновлении структуры раздела услуг адреса и содержимое этих статей остаются без изменений.</p>
+      </section>
+
+      <section class="section" id="dynamics">
+        <h2><i class="fa-solid fa-chart-line section-icon" aria-hidden="true"></i> Динамика: общий трафик не равен трафику услуг</h2>
+        <p class="section__caption">Трафик Google в целом растёт: 411 кликов за первые 30 дней против 688 за последние 30. Но на страницы услуг пришлось лишь 207 кликов за весь период.</p>
+
+        <div class="panel">
+          <p class="panel__title">Клики по дням · 92 точки</p>
+          <p class="panel__meta">Пунктир — скользящая средняя за 7 дней (среднее кликов текущего дня и шести предыдущих).</p>
+          <div class="chart-wrap chart-wrap--line">
+            <canvas id="chartDaily" aria-label="Дневные клики Google за 92 дня"></canvas>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/vendor/chartjs/chart.umd.min.js"></script>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/report.js"></script>
+</body>
+</html>

@@ -1,0 +1,841 @@
+{
+  "metadata": {
+    "site": "profilactica.clinic",
+    "source": "Google Search Console; Web (text-based)",
+    "source_export": "https___profilactica.clinic_-Performance-on-Search-2026-10-14.xlsx",
+    "period_from": "2026-07-12",
+    "period_to": "2026-10-11",
+    "days": 92,
+    "data_scope": "Google organic web search only"
+  },
+  "totals_daily": {
+    "clicks": 1744,
+    "impressions": 205217,
+    "ctr_percent": 0.85,
+    "first_30_clicks": 411,
+    "last_30_clicks": 688
+  },
+  "totals_pages": {
+    "rows": 1000,
+    "clicks": 1749,
+    "impressions": 207809,
+    "classification": {
+      "services": {
+        "pages": 884,
+        "clicks": 207,
+        "impressions": 54605,
+        "zero_click_pages": 785,
+        "under_10_impression_pages": 613
+      },
+      "root": {
+        "pages": 103,
+        "clicks": 1521,
+        "impressions": 152325,
+        "zero_click_pages": 53,
+        "under_10_impression_pages": 26
+      },
+      "other": {
+        "pages": 13,
+        "clicks": 21,
+        "impressions": 879,
+        "zero_click_pages": 6,
+        "under_10_impression_pages": 4
+      }
+    }
+  },
+  "monthly": {
+    "2026-07": {
+      "days": 20,
+      "clicks": 264,
+      "impressions": 32887
+    },
+    "2026-08": {
+      "days": 31,
+      "clicks": 556,
+      "impressions": 67135
+    },
+    "2026-09": {
+      "days": 30,
+      "clicks": 692,
+      "impressions": 73063
+    },
+    "2026-10": {
+      "days": 11,
+      "clicks": 232,
+      "impressions": 32132
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-07-12",
+      "clicks": 20,
+      "impressions": 2497
+    },
+    {
+      "date": "2026-07-13",
+      "clicks": 15,
+      "impressions": 2093
+    },
+    {
+      "date": "2026-07-14",
+      "clicks": 15,
+      "impressions": 1739
+    },
+    {
+      "date": "2026-07-15",
+      "clicks": 8,
+      "impressions": 1381
+    },
+    {
+      "date": "2026-07-16",
+      "clicks": 18,
+      "impressions": 1246
+    },
+    {
+      "date": "2026-07-17",
+      "clicks": 12,
+      "impressions": 1251
+    },
+    {
+      "date": "2026-07-18",
+      "clicks": 14,
+      "impressions": 1235
+    },
+    {
+      "date": "2026-07-19",
+      "clicks": 10,
+      "impressions": 1872
+    },
+    {
+      "date": "2026-07-20",
+      "clicks": 14,
+      "impressions": 1320
+    },
+    {
+      "date": "2026-07-21",
+      "clicks": 15,
+      "impressions": 1347
+    },
+    {
+      "date": "2026-07-22",
+      "clicks": 12,
+      "impressions": 1306
+    },
+    {
+      "date": "2026-07-23",
+      "clicks": 9,
+      "impressions": 1450
+    },
+    {
+      "date": "2026-07-24",
+      "clicks": 12,
+      "impressions": 3211
+    },
+    {
+      "date": "2026-07-25",
+      "clicks": 12,
+      "impressions": 1136
+    },
+    {
+      "date": "2026-07-26",
+      "clicks": 14,
+      "impressions": 1740
+    },
+    {
+      "date": "2026-07-27",
+      "clicks": 9,
+      "impressions": 1564
+    },
+    {
+      "date": "2026-07-28",
+      "clicks": 11,
+      "impressions": 1496
+    },
+    {
+      "date": "2026-07-29",
+      "clicks": 12,
+      "impressions": 1454
+    },
+    {
+      "date": "2026-07-30",
+      "clicks": 19,
+      "impressions": 1862
+    },
+    {
+      "date": "2026-07-31",
+      "clicks": 13,
+      "impressions": 1687
+    },
+    {
+      "date": "2026-08-01",
+      "clicks": 13,
+      "impressions": 1496
+    },
+    {
+      "date": "2026-08-02",
+      "clicks": 12,
+      "impressions": 1833
+    },
+    {
+      "date": "2026-08-03",
+      "clicks": 20,
+      "impressions": 2113
+    },
+    {
+      "date": "2026-08-04",
+      "clicks": 13,
+      "impressions": 1354
+    },
+    {
+      "date": "2026-08-05",
+      "clicks": 14,
+      "impressions": 1429
+    },
+    {
+      "date": "2026-08-06",
+      "clicks": 14,
+      "impressions": 1362
+    },
+    {
+      "date": "2026-08-07",
+      "clicks": 10,
+      "impressions": 1638
+    },
+    {
+      "date": "2026-08-08",
+      "clicks": 19,
+      "impressions": 1743
+    },
+    {
+      "date": "2026-08-09",
+      "clicks": 17,
+      "impressions": 2693
+    },
+    {
+      "date": "2026-08-10",
+      "clicks": 15,
+      "impressions": 1875
+    },
+    {
+      "date": "2026-08-11",
+      "clicks": 14,
+      "impressions": 2233
+    },
+    {
+      "date": "2026-08-12",
+      "clicks": 16,
+      "impressions": 2075
+    },
+    {
+      "date": "2026-08-13",
+      "clicks": 19,
+      "impressions": 1969
+    },
+    {
+      "date": "2026-08-14",
+      "clicks": 14,
+      "impressions": 2093
+    },
+    {
+      "date": "2026-08-15",
+      "clicks": 20,
+      "impressions": 1982
+    },
+    {
+      "date": "2026-08-16",
+      "clicks": 18,
+      "impressions": 3957
+    },
+    {
+      "date": "2026-08-17",
+      "clicks": 19,
+      "impressions": 1988
+    },
+    {
+      "date": "2026-08-18",
+      "clicks": 13,
+      "impressions": 1942
+    },
+    {
+      "date": "2026-08-19",
+      "clicks": 18,
+      "impressions": 1922
+    },
+    {
+      "date": "2026-08-20",
+      "clicks": 16,
+      "impressions": 1971
+    },
+    {
+      "date": "2026-08-21",
+      "clicks": 15,
+      "impressions": 2314
+    },
+    {
+      "date": "2026-08-22",
+      "clicks": 17,
+      "impressions": 2004
+    },
+    {
+      "date": "2026-08-23",
+      "clicks": 18,
+      "impressions": 3042
+    },
+    {
+      "date": "2026-08-24",
+      "clicks": 22,
+      "impressions": 2265
+    },
+    {
+      "date": "2026-08-25",
+      "clicks": 31,
+      "impressions": 2198
+    },
+    {
+      "date": "2026-08-26",
+      "clicks": 32,
+      "impressions": 2298
+    },
+    {
+      "date": "2026-08-27",
+      "clicks": 24,
+      "impressions": 2113
+    },
+    {
+      "date": "2026-08-28",
+      "clicks": 24,
+      "impressions": 2047
+    },
+    {
+      "date": "2026-08-29",
+      "clicks": 23,
+      "impressions": 2481
+    },
+    {
+      "date": "2026-08-30",
+      "clicks": 26,
+      "impressions": 3362
+    },
+    {
+      "date": "2026-08-31",
+      "clicks": 10,
+      "impressions": 3343
+    },
+    {
+      "date": "2026-09-01",
+      "clicks": 19,
+      "impressions": 2096
+    },
+    {
+      "date": "2026-09-02",
+      "clicks": 26,
+      "impressions": 2535
+    },
+    {
+      "date": "2026-09-03",
+      "clicks": 17,
+      "impressions": 2185
+    },
+    {
+      "date": "2026-09-04",
+      "clicks": 27,
+      "impressions": 1827
+    },
+    {
+      "date": "2026-09-05",
+      "clicks": 24,
+      "impressions": 2068
+    },
+    {
+      "date": "2026-09-06",
+      "clicks": 20,
+      "impressions": 3500
+    },
+    {
+      "date": "2026-09-07",
+      "clicks": 16,
+      "impressions": 2680
+    },
+    {
+      "date": "2026-09-08",
+      "clicks": 23,
+      "impressions": 2247
+    },
+    {
+      "date": "2026-09-09",
+      "clicks": 25,
+      "impressions": 2475
+    },
+    {
+      "date": "2026-09-10",
+      "clicks": 16,
+      "impressions": 1818
+    },
+    {
+      "date": "2026-09-11",
+      "clicks": 23,
+      "impressions": 1900
+    },
+    {
+      "date": "2026-09-12",
+      "clicks": 25,
+      "impressions": 2040
+    },
+    {
+      "date": "2026-09-13",
+      "clicks": 28,
+      "impressions": 3500
+    },
+    {
+      "date": "2026-09-14",
+      "clicks": 34,
+      "impressions": 2222
+    },
+    {
+      "date": "2026-09-15",
+      "clicks": 31,
+      "impressions": 2216
+    },
+    {
+      "date": "2026-09-16",
+      "clicks": 22,
+      "impressions": 2228
+    },
+    {
+      "date": "2026-09-17",
+      "clicks": 22,
+      "impressions": 2430
+    },
+    {
+      "date": "2026-09-18",
+      "clicks": 18,
+      "impressions": 2536
+    },
+    {
+      "date": "2026-09-19",
+      "clicks": 20,
+      "impressions": 2261
+    },
+    {
+      "date": "2026-09-20",
+      "clicks": 27,
+      "impressions": 3526
+    },
+    {
+      "date": "2026-09-21",
+      "clicks": 25,
+      "impressions": 2307
+    },
+    {
+      "date": "2026-09-22",
+      "clicks": 27,
+      "impressions": 2062
+    },
+    {
+      "date": "2026-09-23",
+      "clicks": 26,
+      "impressions": 2519
+    },
+    {
+      "date": "2026-09-24",
+      "clicks": 22,
+      "impressions": 1890
+    },
+    {
+      "date": "2026-09-25",
+      "clicks": 20,
+      "impressions": 2036
+    },
+    {
+      "date": "2026-09-26",
+      "clicks": 19,
+      "impressions": 2359
+    },
+    {
+      "date": "2026-09-27",
+      "clicks": 21,
+      "impressions": 3871
+    },
+    {
+      "date": "2026-09-28",
+      "clicks": 25,
+      "impressions": 2187
+    },
+    {
+      "date": "2026-09-29",
+      "clicks": 22,
+      "impressions": 2373
+    },
+    {
+      "date": "2026-09-30",
+      "clicks": 22,
+      "impressions": 3169
+    },
+    {
+      "date": "2026-10-01",
+      "clicks": 16,
+      "impressions": 2784
+    },
+    {
+      "date": "2026-10-02",
+      "clicks": 17,
+      "impressions": 2323
+    },
+    {
+      "date": "2026-10-03",
+      "clicks": 27,
+      "impressions": 2550
+    },
+    {
+      "date": "2026-10-04",
+      "clicks": 20,
+      "impressions": 4601
+    },
+    {
+      "date": "2026-10-05",
+      "clicks": 24,
+      "impressions": 2472
+    },
+    {
+      "date": "2026-10-06",
+      "clicks": 21,
+      "impressions": 2201
+    },
+    {
+      "date": "2026-10-07",
+      "clicks": 12,
+      "impressions": 2330
+    },
+    {
+      "date": "2026-10-08",
+      "clicks": 24,
+      "impressions": 2585
+    },
+    {
+      "date": "2026-10-09",
+      "clicks": 25,
+      "impressions": 2688
+    },
+    {
+      "date": "2026-10-10",
+      "clicks": 26,
+      "impressions": 2839
+    },
+    {
+      "date": "2026-10-11",
+      "clicks": 20,
+      "impressions": 4759
+    }
+  ],
+  "top_10_pages": [
+    {
+      "path": "/alkogol-i-testosteron-u-muzhchin-nesovmestimost-posledstviya-i-kak-spasti-muzhskoe-zdorove/",
+      "clicks": 312,
+      "impressions": 19478
+    },
+    {
+      "path": "/pochemu-hochetsya-pit-alkogol-kazhdyj-den-psihologicheskie-prichiny/",
+      "clicks": 274,
+      "impressions": 23497
+    },
+    {
+      "path": "/bezalkogolnoe-pivo-pravda-o-riskah-i-polze-dlya-vashego-tela/",
+      "clicks": 198,
+      "impressions": 10042
+    },
+    {
+      "path": "/latentnyj-alkogolik-kto-eto-kak-raspoznat-i-vylechit-skrytyj-alkogolizm/",
+      "clicks": 132,
+      "impressions": 5848
+    },
+    {
+      "path": "/kogda-telo-govorit-hvatit-kak-raspoznat-final-alkogolnoy-bolezni/",
+      "clicks": 108,
+      "impressions": 12884
+    },
+    {
+      "path": "/30-dney-bez-spirtnogo-kak-telo-i-razum-menyayutsya-na-samom-dele/",
+      "clicks": 51,
+      "impressions": 3992
+    },
+    {
+      "path": "/pochemu-odni-lyudi-posle-vypivki-prevraschayutsya-v-agressorov-a-drugie-net-razbor-prichin-i-sposobov-spravitsya/",
+      "clicks": 50,
+      "impressions": 3972
+    },
+    {
+      "path": "/",
+      "clicks": 43,
+      "impressions": 5712
+    },
+    {
+      "path": "/kto-takie-funkczionalnye-alkogoliki/",
+      "clicks": 41,
+      "impressions": 4217
+    },
+    {
+      "path": "/alkogolnye-napitki-posle-detoksikaczii-dopustimo-li-pit-posle-provedennoj-kapelniczy/",
+      "clicks": 36,
+      "impressions": 3769
+    }
+  ],
+  "top_10_services": [
+    {
+      "path": "/uslugi/vyzov-narkologa-na-dom-v-zvenigorode/",
+      "clicks": 17,
+      "impressions": 3402,
+      "position": 13.51
+    },
+    {
+      "path": "/uslugi/narkolog-na-dom-v-moskve/",
+      "clicks": 13,
+      "impressions": 7763,
+      "position": 29.38
+    },
+    {
+      "path": "/uslugi/kapelniczy-na-domu-v-moskve/",
+      "clicks": 10,
+      "impressions": 2126,
+      "position": 33.46
+    },
+    {
+      "path": "/uslugi/reabilitaciya-igromanov/",
+      "clicks": 10,
+      "impressions": 1318,
+      "position": 31.25
+    },
+    {
+      "path": "/uslugi/kapelnica-ot-narkotikov/",
+      "clicks": 9,
+      "impressions": 1012,
+      "position": 24.72
+    },
+    {
+      "path": "/uslugi/kapelniczy-na-dom-v-kommunarke/",
+      "clicks": 8,
+      "impressions": 34,
+      "position": 4.91
+    },
+    {
+      "path": "/uslugi/ubod-ultra-bystraya-detoksikaciya/",
+      "clicks": 7,
+      "impressions": 313,
+      "position": 23.92
+    },
+    {
+      "path": "/uslugi/klinika-reabilitacii-alkogolizma/",
+      "clicks": 5,
+      "impressions": 113,
+      "position": 27.54
+    },
+    {
+      "path": "/uslugi/kapelniczy-na-dom-v-shhelkovo/",
+      "clicks": 4,
+      "impressions": 182,
+      "position": 13.66
+    },
+    {
+      "path": "/uslugi/reabilitacziya-zavisimyh-v-moskve/",
+      "clicks": 4,
+      "impressions": 181,
+      "position": 20.56
+    }
+  ],
+  "commercial_showcases": [
+    {
+      "path": "/uslugi/narkolog-na-dom-v-moskve/",
+      "clicks": 13,
+      "impressions": 7763,
+      "position": 29.38
+    },
+    {
+      "path": "/uslugi/prokapatsya-ot-alkogolya/",
+      "clicks": 0,
+      "impressions": 5226,
+      "position": 25.35
+    },
+    {
+      "path": "/uslugi/vyvod-iz-zapoya-kodirovaniem/",
+      "clicks": 1,
+      "impressions": 3472,
+      "position": 35.23
+    },
+    {
+      "path": "/uslugi/vyzov-narkologa-na-dom-v-zvenigorode/",
+      "clicks": 17,
+      "impressions": 3402,
+      "position": 13.51
+    },
+    {
+      "path": "/uslugi/kapelniczy-na-domu-v-moskve/",
+      "clicks": 10,
+      "impressions": 2126,
+      "position": 33.46
+    },
+    {
+      "path": "/uslugi/kapelnicza-ot-zapoya-na-domu-v-moskve/",
+      "clicks": 1,
+      "impressions": 1580,
+      "position": 20.02
+    },
+    {
+      "path": "/uslugi/vyzov-narkologa-na-dom-v-perovo/",
+      "clicks": 0,
+      "impressions": 1401,
+      "position": 5.5
+    },
+    {
+      "path": "/uslugi/reabilitaciya-igromanov/",
+      "clicks": 10,
+      "impressions": 1318,
+      "position": 31.25
+    },
+    {
+      "path": "/uslugi/kodirovaniye-ot-alkogolizma-esperal/",
+      "clicks": 0,
+      "impressions": 1289,
+      "position": 30.35
+    },
+    {
+      "path": "/uslugi/kodirovanie-dvoynim-blokom-ot-alkogolizma/",
+      "clicks": 0,
+      "impressions": 1068,
+      "position": 28.98
+    },
+    {
+      "path": "/uslugi/detoks-kapelnica/",
+      "clicks": 1,
+      "impressions": 1053,
+      "position": 29.96
+    },
+    {
+      "path": "/uslugi/kapelnica-ot-narkotikov/",
+      "clicks": 9,
+      "impressions": 1012,
+      "position": 24.72
+    },
+    {
+      "path": "/uslugi/vyvod-iz-zapoya-na-domu-v-kotelniki/",
+      "clicks": 0,
+      "impressions": 800,
+      "position": 21.6
+    },
+    {
+      "path": "/uslugi/snyatie-lomki/",
+      "clicks": 1,
+      "impressions": 776,
+      "position": 18.61
+    },
+    {
+      "path": "/uslugi/vyzov-narkologa-na-dom-v-zao/",
+      "clicks": 0,
+      "impressions": 666,
+      "position": 52.06
+    },
+    {
+      "path": "/uslugi/na-domu/",
+      "clicks": 1,
+      "impressions": 604,
+      "position": 30.33
+    },
+    {
+      "path": "/uslugi/lechenie-alkogolizma-igloukalyvanie/",
+      "clicks": 0,
+      "impressions": 551,
+      "position": 28.46
+    },
+    {
+      "path": "/uslugi/kapelnica-ot-zapoya-v-stacionare/",
+      "clicks": 1,
+      "impressions": 515,
+      "position": 30.36
+    },
+    {
+      "path": "/uslugi/vyzov-narkologa-na-dom-v-shhelkovo/",
+      "clicks": 0,
+      "impressions": 494,
+      "position": 28.53
+    },
+    {
+      "path": "/uslugi/snyatie-lomki-v-stacionare/",
+      "clicks": 0,
+      "impressions": 480,
+      "position": 27.94
+    }
+  ],
+  "countries_top": [
+    {
+      "country": "Russia",
+      "clicks": 1374
+    },
+    {
+      "country": "Ukraine",
+      "clicks": 79
+    },
+    {
+      "country": "Belarus",
+      "clicks": 48
+    },
+    {
+      "country": "Kazakhstan",
+      "clicks": 26
+    },
+    {
+      "country": "Germany",
+      "clicks": 21
+    },
+    {
+      "country": "United States",
+      "clicks": 16
+    },
+    {
+      "country": "Netherlands",
+      "clicks": 13
+    },
+    {
+      "country": "Unknown Region",
+      "clicks": 13
+    }
+  ],
+  "devices": [
+    {
+      "device": "Mobile",
+      "clicks": 1556
+    },
+    {
+      "device": "Desktop",
+      "clicks": 170
+    },
+    {
+      "device": "Tablet",
+      "clicks": 18
+    }
+  ],
+  "geo_groups_from_audit": [
+    {
+      "name": "Нарколог на дом — GEO",
+      "pages": 84,
+      "clicks": 35,
+      "zero_click_pages": 78
+    },
+    {
+      "name": "Капельницы на дом — GEO",
+      "pages": 365,
+      "clicks": 105,
+      "zero_click_pages": 303
+    },
+    {
+      "name": "Вывод из запоя — GEO",
+      "pages": 325,
+      "clicks": 4,
+      "zero_click_pages": 321
+    }
+  ],
+  "methodology": [
+    "Итоги вкладки Chart и Pages различаются: 1744 клика за дни против 1749 суммой 1000 URL в Pages. Не смешивать знаменатели.",
+    "Показанные 1000 URL — лимит выгрузки Pages, а не все URL сайта; нулевой клик не доказывает отсутствия индексации.",
+    "Root содержит статьи и некоторые другие корневые страницы: не называйте всю категорию блогом.",
+    "Данные по запросам (Queries) неполные; запрос и страницу из файла нельзя связать.",
+    "Выводы о нулевой потере трафика при миграции не подтверждаются GSC: 301 снижает риск потерь, но не гарантирует его отсутствия."
+  ]
+}
